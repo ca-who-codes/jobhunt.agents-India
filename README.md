@@ -26,7 +26,7 @@ You need [Node.js](https://nodejs.org) 18+ and an AI coding CLI (e.g. [Claude Co
 
 ```bash
 # 1. Clone
-git clone https://github.com/subhamlistingsmanager/jobhunt.agents-India.git
+git clone https://github.com/ca-who-codes/jobhunt.agents-India.git
 cd jobhunt.agents-India
 
 # 2. Install

@@ -116,7 +116,7 @@ function checkPlaywrightMcp(root) {
     fix: [
       'Browser-driven JD fetching and liveness checks (scan / pipeline / apply) need the',
       'Playwright MCP server, which this project does not configure yet — SPA job boards',
-      'may return empty or stale content. Tracking: https://github.com/subhamlistingsmanager/jobhunt.agents-India/issues/506',
+      'may return empty or stale content. Tracking: https://github.com/ca-who-codes/jobhunt.agents-India/issues/506',
     ],
   };
 }

@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Job Hunts Agent India — evaluate roles, build India-format resumes, scan portals, track applications",
   "author": {
-    "name": "subhamlistingsmanager",
-    "url": "https://github.com/subhamlistingsmanager/jobhunt.agents-India"
+    "name": "ca-who-codes",
+    "url": "https://github.com/ca-who-codes/jobhunt.agents-India"
   },
   "skills": true,
   "permissions": {

@@ -1,4 +1,4 @@
-module github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard
+module github.com/ca-who-codes/jobhunt.agents-India/dashboard
 
 go 1.24.2
 

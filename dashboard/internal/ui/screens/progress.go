@@ -7,8 +7,8 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/theme"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/theme"
 )
 
 // ProgressClosedMsg is emitted when the progress screen is dismissed.

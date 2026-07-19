@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
 )
 
 var (

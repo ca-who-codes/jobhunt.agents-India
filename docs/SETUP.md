@@ -29,7 +29,7 @@ claude   # or gemini / codex / qwen / opencode
 <summary>Prefer to clone the repo yourself?</summary>
 
 ```bash
-git clone https://github.com/subhamlistingsmanager/jobhunt.agents-India.git
+git clone https://github.com/ca-who-codes/jobhunt.agents-India.git
 cd jobhunt-india
 npm install
 ```

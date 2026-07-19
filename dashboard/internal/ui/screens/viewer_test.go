@@ -6,7 +6,7 @@ import (
 
 	"github.com/charmbracelet/x/ansi"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/theme"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/theme"
 )
 
 func TestViewerRebuildRenderClampsScrollOffset(t *testing.T) {

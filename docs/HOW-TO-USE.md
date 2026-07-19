@@ -52,7 +52,7 @@ Optional: **Playwright Chromium** (`npx playwright install chromium`) — only n
 
 ```bash
 # 1. Download the project
-git clone https://github.com/subhamlistingsmanager/jobhunt.agents-India.git
+git clone https://github.com/ca-who-codes/jobhunt.agents-India.git
 cd jobhunt.agents-India
 
 # 2. Install dependencies
@@ -286,4 +286,4 @@ Your CV and personal details never leave your machine except when *you* (via the
 
 ---
 
-*Questions or ideas? Open an issue at the [repo](https://github.com/subhamlistingsmanager/jobhunt.agents-India). Happy hunting. 🇮🇳*
+*Questions or ideas? Open an issue at the [repo](https://github.com/ca-who-codes/jobhunt.agents-India). Happy hunting. 🇮🇳*

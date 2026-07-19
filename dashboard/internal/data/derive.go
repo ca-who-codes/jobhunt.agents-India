@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
 )
 
 // The tracker's Notes column is free-text, but evaluations write it with stable

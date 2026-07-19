@@ -3,8 +3,8 @@ package screens
 import (
 	"testing"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/theme"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/theme"
 )
 
 func TestSortCycleIncludesNewColumns(t *testing.T) {

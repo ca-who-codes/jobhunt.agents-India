@@ -7,10 +7,10 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/data"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/theme"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/ui/screens"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/data"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/theme"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/ui/screens"
 )
 
 type viewState int

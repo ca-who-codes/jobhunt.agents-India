@@ -11,9 +11,9 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/data"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/theme"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/data"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/theme"
 )
 
 // PipelineClosedMsg is emitted when the pipeline screen is dismissed.

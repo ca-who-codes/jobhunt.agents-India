@@ -3,7 +3,7 @@ package data
 import (
 	"testing"
 
-	"github.com/subhamlistingsmanager/jobhunt.agents-India/dashboard/internal/model"
+	"github.com/ca-who-codes/jobhunt.agents-India/dashboard/internal/model"
 )
 
 func TestDeriveNoteFields(t *testing.T) {

@@ -23,9 +23,9 @@ import { fileURLToPath, pathToFileURL } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = __dirname;
 
-const CANONICAL_REPO = 'https://github.com/subhamlistingsmanager/jobhunt.agents-India.git';
-const RAW_VERSION_URL = 'https://raw.githubusercontent.com/subhamlistingsmanager/jobhunt.agents-India/main/VERSION';
-const RELEASES_API = 'https://api.github.com/repos/subhamlistingsmanager/jobhunt.agents-India/releases/latest';
+const CANONICAL_REPO = 'https://github.com/ca-who-codes/jobhunt.agents-India.git';
+const RAW_VERSION_URL = 'https://raw.githubusercontent.com/ca-who-codes/jobhunt.agents-India/main/VERSION';
+const RELEASES_API = 'https://api.github.com/repos/ca-who-codes/jobhunt.agents-India/releases/latest';
 
 // Matches a semver, with or without a leading `v` and an optional
 // Release Please component prefix (e.g. `jobhunt-india-v1.9.0` → `1.9.0`).

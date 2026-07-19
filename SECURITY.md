@@ -4,7 +4,7 @@
 
 **Do NOT open a public issue for security vulnerabilities.**
 
-Instead, please email **hi@github.com/subhamlistingsmanager/jobhunt.agents-India** with:
+Instead, please email **hi@github.com/ca-who-codes/jobhunt.agents-India** with:
 
 1. Description of the vulnerability
 2. Steps to reproduce

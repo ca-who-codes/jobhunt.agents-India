@@ -31,7 +31,7 @@ PRs without a corresponding issue may be closed if they don't align with the pro
 - Translate modes to other languages
 - Improve documentation
 - Add example CVs for different roles (in `examples/`)
-- Report bugs via [Issues](https://github.com/subhamlistingsmanager/jobhunt.agents-India/issues)
+- Report bugs via [Issues](https://github.com/ca-who-codes/jobhunt.agents-India/issues)
 
 **Bigger contributions:**
 - New evaluation dimensions or scoring logic
@@ -41,7 +41,7 @@ PRs without a corresponding issue may be closed if they don't align with the pro
 
 ## Scope: the core vs. the shared layer
 
-jobhunt-india core is **local-first and human-in-the-loop** by design — it runs on your machine and drafts applications for *you* to review and submit. Centralized infrastructure — hosted job aggregation, a shared matching service, proxies or Workers the project would operate — is **not part of the core**: it's heavier than a free local tool should carry, and it's where the project is headed as a *separate, opt-in service*. See the direction here: **[Where jobhunt-india is going](https://github.com/subhamlistingsmanager/jobhunt.agents-India/discussions/904)**.
+jobhunt-india core is **local-first and human-in-the-loop** by design — it runs on your machine and drafts applications for *you* to review and submit. Centralized infrastructure — hosted job aggregation, a shared matching service, proxies or Workers the project would operate — is **not part of the core**: it's heavier than a free local tool should carry, and it's where the project is headed as a *separate, opt-in service*. See the direction here: **[Where jobhunt-india is going](https://github.com/ca-who-codes/jobhunt.agents-India/discussions/904)**.
 
 Rule of thumb before you build: **provider modules, languages, CLI support, modes, dashboard, docs and fixes → the core.** Bigger centralized or automation ideas (a hosted layer, auto-apply, scraping infrastructure) → **start in that discussion**, so we can route them together instead of a large PR that can't merge.
 
@@ -57,7 +57,7 @@ Rule of thumb before you build: **provider modules, languages, CLI support, mode
 - **PRs that scrape platforms prohibiting automated access** (LinkedIn, etc.). We actively reject these to respect third-party ToS.
 - **PRs that enable auto-submitting applications** without human review. jobhunt-india is a decision-support tool, not a spam bot.
 - **PRs that add external API dependencies** without prior discussion in an issue.
-- **PRs that add centralized or hosted infrastructure to the core** (proxies, aggregation services, shared Workers). That's the separate opt-in service, not the open-core — bring it to the [direction discussion](https://github.com/subhamlistingsmanager/jobhunt.agents-India/discussions/904) first.
+- **PRs that add centralized or hosted infrastructure to the core** (proxies, aggregation services, shared Workers). That's the separate opt-in service, not the open-core — bring it to the [direction discussion](https://github.com/ca-who-codes/jobhunt.agents-India/discussions/904) first.
 - **PRs containing personal data** (real CVs, emails, phone numbers). Use `examples/` with fictional data instead.
 
 ## Development
@@ -84,5 +84,5 @@ trademark policy regarding commercial naming and endorsement claims.
 ## Need Help?
 
 - [Join the Discord](https://discord.gg/8pRpHETxa4) — fastest way to get answers and connect with other contributors
-- [Open an issue](https://github.com/subhamlistingsmanager/jobhunt.agents-India/issues)
+- [Open an issue](https://github.com/ca-who-codes/jobhunt.agents-India/issues)
 - [Read the architecture docs](docs/ARCHITECTURE.md)

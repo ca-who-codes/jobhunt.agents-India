@@ -37,11 +37,11 @@
     "jobhunt-india",
     "automation"
   ],
-  "author": "Subham Kejriwal (https://github.com/subhamlistingsmanager)",
-  "homepage": "https://github.com/subhamlistingsmanager/jobhunt.agents-India",
+  "author": "ca-who-codes (https://github.com/ca-who-codes)",
+  "homepage": "https://github.com/ca-who-codes/jobhunt.agents-India",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subhamlistingsmanager/jobhunt.agents-India"
+    "url": "https://github.com/ca-who-codes/jobhunt.agents-India"
   },
   "license": "MIT",
   "dependencies": {
