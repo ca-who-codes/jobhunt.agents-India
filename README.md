@@ -1,3 +1,5 @@
+![jobhunt.agents — AI job-search co-pilot for India · CA who codes](.github/banner.png)
+
 # Job Hunts Agent India 🇮🇳
 
 **An AI job-search co-pilot for Indian candidates — freshers, students, and working professionals.**
